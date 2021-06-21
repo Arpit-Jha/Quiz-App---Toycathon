@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="name">It Works!</string>
+    <string name="start">Start</string>
+    <string name="logo">Logo</string>
+    <string name="it_works">It Works</string>
+    <string name="questions_attempted">Questions Attempted</string>
+    <string name="question">Question</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="your_result_is">Your Result Is</string>
+    <string name="exit">Exit</string>
+    <string name="restart_quiz">Restart quiz</string>
+</resources>
